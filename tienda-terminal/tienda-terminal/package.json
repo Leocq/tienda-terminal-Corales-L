@@ -1,0 +1,12 @@
+{
+  "name": "tienda-terminal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gestión de productos de FakeStore desde la terminal",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=22" }
+}
